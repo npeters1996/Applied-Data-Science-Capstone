@@ -1,0 +1,24 @@
+Introduction
+
+In the Battle of the Neighborhoods final project, we are tasked to leverage the Foursquare location data to compare neighborhoods
+of our choice. In my case, I will be using Foursquare location data of Italian restaurants throughout the New York City boroughs
+(and the neighborhoods within each borough). This information is used to answer the question: if someone is looking to open an Italian
+restaurant in New York City, where would I recommend that they open it? 
+
+I come from a long line of Italian restaurateurs, many of whom immigrated to New York City back in the early 20th century. While I will 
+not go into the family business, I have siblings that are ready to start their own culinary careers. Hopefully with this project,
+I will be able to help find the best location for them to set up shop. New York City has the largest population of Italian Americans in
+all of North America, so there will be a lot of competition. I will try and find a borough, and more specifically, a neighborhood
+that is not situated in an area that is heavily saturated with other Italian restaurants, but also lies in an area that has the best 
+average ratings.
+
+
+Data
+
+I will be using data from "https://cocl.us/new_york_dataset" to gather information about the New York City boroughs and neighborhoods,
+as well as their longitudes and latitudes, and the restaurants and their ratings. 
+
+I will also be using data from "https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm" to gather the boundaries for
+each New York City neighborhood. 
+
+Lastly, I will using data from FourSquare API to gather information regarding the locations of the Italian restaurants in New York City.
