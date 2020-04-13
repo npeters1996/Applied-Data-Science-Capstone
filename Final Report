@@ -1,0 +1,54 @@
+Introduction
+
+In the Battle of the Neighborhoods final project, we are tasked to leverage the Foursquare location data to compare neighborhoods
+of our choice. In my case, I will be using Foursquare location data of Italian restaurants throughout the New York City boroughs
+(and the neighborhoods within each borough). This information is used to answer the question: if someone is looking to open an Italian
+restaurant in New York City, where would I recommend that they open it? 
+
+I come from a long line of Italian restaurateurs, many of whom immigrated to New York City back in the early 20th century. While I will 
+not go into the family business, I have siblings that are ready to start their own culinary careers. Hopefully with this project,
+I will be able to help find the best location for them to set up shop. New York City has the largest population of Italian Americans in
+all of North America, so there will be a lot of competition. I will try and find a borough, and more specifically, a neighborhood
+that has the best average ratings, but is not situated in an area that is already heavily saturated with other Italian restaurants.
+
+
+Data
+
+I will be using data from the following links to help answer the question proposed above:
+
+-"https://cocl.us/new_york_dataset" - data about the New York City boroughs and neighborhoods, as well as their longitudes and latitudes, 
+and the restaurants and their ratings. 
+
+-"https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm" - data about the New York City neighborhood boundaries. 
+
+-Foursquare API - data about the locations of the Italian restaurants in New York City.
+
+
+Methodology
+
+-Import all of the data from the links above.
+-Find the number of neighborhoods in each New York City borough (this also shows all of the NYC boroughs)
+-Find the number of Italian restaurants in each New York City borough
+-Find the number of Italian restaurants in each New York City neighborhood
+-Find the average rating of Italian restaurants in each New York City borough
+-Find the average rating of Italian restaurants in each New York City neighborhood
+-Create a map to visualize the location of this information
+
+
+Results and Conclusion
+
+Although Manhattan has the least number of neighborhoods out of all the New York City boroughs, it has almost a third of the Italian
+American population in New York City, making it incredibly populated with Italians and a good choice for an Italian restaurant. To 
+support Manhattan as the optimal borough, it has the highest number of Italian restaurants, making it a widely known area for Italian 
+food, which will help attract more potential customers. It also has the highest average rating out of all New York City boroughs. Note,
+there will be a lot of competition due to there being so many highly rated Italian restaurants in Manhattan, so it would be best to 
+choose a neighborhood within Manhattan that does not have too many other pre-existing Italian restaurants, but still maintains a good
+average rating. After the analysis of all the data, I have come to the conclusion that Noho is the best neighborhood within Manhattan
+to start an Italian restaurant. It has 6 pre-existing Italian restaurants, which is not too high and not too low - there will still be 
+competition, but not enough to prevent business and enough so that will attract new potential customers. Noho also has an average
+rating of 8.76. This is the highest average rating out of all the neighborhoods in Manhattan and is the fourth overall average rating 
+out of any neighborhood in any borough in New York City. Depending on the accuracy of the data provided by my sources, the conclusion
+may be different, but based upon this report, I will let my siblings know of my findings. To those reading this, keep an eye 
+out for their restaurant in Noho, New York City in a few years! It will be named Rossi Romano!
+
+
