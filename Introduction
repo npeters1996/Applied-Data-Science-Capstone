@@ -21,4 +21,4 @@ as well as their longitudes and latitudes, and the restaurants and their ratings
 I will also be using data from "https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm" to gather the boundaries for
 each New York City neighborhood. 
 
-Lastly, I will using data from FourSquare API to gather information regarding the locations of the Italian restaurants in New York City.
+Lastly, I will using data from Foursquare API to gather information regarding the locations of the Italian restaurants in New York City.
