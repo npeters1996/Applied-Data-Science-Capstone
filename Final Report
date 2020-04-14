@@ -41,11 +41,15 @@ Although Manhattan has the least number of neighborhoods out of all the New York
 American population in New York City (almost 1 million!), making it incredibly populated with Italians and a good choice for an Italian 
 restaurant. To support Manhattan as the optimal borough, it has the highest number of Italian restaurants, making it a widely known area
 for Italian food, which will help attract more potential customers. It also has the highest average rating out of all New York City 
-boroughs. 6 out of the top 10 highest average rating neighborhoods with Italian restaurants are in Manhattan. Note, since there will be 
-a lot of competition due to there being so many highly rated Italian restaurants in Manhattan, it would be best to choose a neighborhood
-within Manhattan that does not have too many other pre-existing Italian restaurants, but still maintains a good verage rating. 
+boroughs. 6 out of the top 10 highest average rating neighborhoods with Italian restaurants are in Manhattan. However, only Noho and 
+Greenwich Village have more than one or two restaurants, 6 and 12, respectively. The other neighborhoods are not as well known for their
+Italian food, which may prevent potential customers. Note, since there will be a lot of competition due to there being so many highly 
+rated Italian restaurants in Manhattan, it would be best to choose a neighborhood within Manhattan that does not have too many (or too 
+few) other pre-existing Italian restaurants, but still maintains a good average rating. This leaves Noho as the only suitable choice.
 
-Note, to see the actual code, please refer to the link in my submission that takes you to my Notebook on my Github repository.
+Note, to see the actual code, please refer to the link in my submission that takes you to my Notebook on my Github repository. To add to
+this point, some of the code (particularly the ones pulling from Foursquare) had its quota exceeded. I am unable to showcase all of the
+output at once. All of the code is still there, but you can refer to my presentation to see what the output produces.
 
 Further note, to see the visualization of the data, please refer to the link in my submisison that takes you to my presentation.
 
@@ -54,7 +58,7 @@ DISCUSSION & CONCLUSION
 
 After the analysis of all the data, I have come to the conclusion that Noho is the best neighborhood within Manhattan to start an
 Italian restaurant. It has 6 pre-existing Italian restaurants, which is not too high and not too low - there will still be competition, 
-but not enough to prevent business and enough so that will attract new potential customers. Noho also has an average rating of 8.76. 
+but not enough to prevent business and enough so that will attract new potential customers. Noho also has an average rating of 8.76/10. 
 This is the the fourth highest overall average rating out of any neighborhood in New York City. Of course, this conclusion is based upon
 the accuracy of the data provided by the sources that I used. Also, if the data was obtained from other sources, the results may vary. 
 However, based upon this report from the data that I used, I will let my siblings know of my findings. To those reading this, keep an 
